@@ -1,7 +1,7 @@
 # Matthew's Huffman Coding
 
 ## Location of Jar
-* The path of the jar is `build/libs/com.mbennett-all-1.0-SNAPSHOT.jar` within the project.
+* The path of the jar is `jars/com.mbennett-all-1.0-SNAPSHOT.jar` within the project.
 
 ## Huffman Encoding
 * Go to terminal
